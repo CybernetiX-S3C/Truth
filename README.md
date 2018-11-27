@@ -1,6 +1,6 @@
-# About BillCipher 2.3
-Information Gathering tool for a Website or IP address, use some ideas from <a href="http://bit.ly/2KU7BMF" target="_blank"><span style="color: blue">Devploit</span></a>.
-BillCipher can work in any operating system if they have and support Python 2, Python 3, and Ruby.
+# About Truth 4.2
+Information Gathering tool for a Website or IP address. I have used pieces from my<a href="Snapcraft.io/infosploit" target="_blank"><span style="color: blue">Infosploit</span></a> and my latest E-ntel.
+Truth can work in any operating system if they have and support Python 2, Python 3, and Ruby.
 
 # Features
  * DNS Lookup 
@@ -17,7 +17,7 @@ BillCipher can work in any operating system if they have and support Python 2, P
  * Get Robots.txt
  * Host DNS Finder
  * Reserve IP Lookup
- * Email Gathering (use Infoga)
+ * Email Gathering (use E-ntel) New!
  * Subdomain listing (use Sublist3r)
  * Find Admin login site (use Breacher)
  * Check and Bypass CloudFlare (use HatCloud)
@@ -27,11 +27,11 @@ BillCipher can work in any operating system if they have and support Python 2, P
  # Install and Run in Linux
     sudo apt update && sudo apt install ruby python python-pip python3 python3-pip
     sudo apt install httrack whatweb
-    git clone https://github.com/GitHackTools/BillCipher
-    cd BillCipher
+    git clone https://github.com/CybernetiX-S3C/Truth
+    cd Truth
     pip install -r requirements.txt
     pip3 install -r requirements.txt
-    python3 billcipher.py
+    python3 truth.py
     
 # Install and Run in Windows
 Download and run Python 2.7.x and Python 3.7 setup file from <a href="https://python.org" target="_blank"><span style="color: blue">Python.org</span></a>:
@@ -45,44 +45,38 @@ Download and run Git setup file from <a href="https://Git-scm.com" target="_blan
 
 Afther that, Run Command Propmt and enter this commands:
 
-<code>git clone https://github.com/GitHackTools/BillCipher</code>
+<code>git clone https://github.com/CybernetiX-S3C/Truth</code>
 
-<code>cd BillCipher</code>
+<code>cd Truth</code>
 
 <code>pip install -r requirements.txt</code>
 
 <code>pip3 install -r requirements.txt</code>
 
-<code>python3 billcipher.py</code>
+<code>python3 truth.py</code>
 
 # Notes
-BillCipher uses some ideas from <a href="http://bit.ly/2KU7BMF" target="_blank"><span style="color: blue">Devploit</span></a> and that is use HackerTarget API.
+Truth uses some pieces from my<a href="http://snapcraft.io/infosploit" target="_blank"><span style="color: blue">Infosploit</span></a> and my latest E-ntel.
 
-All the tools: <a href="http://bit.ly/2ohlBa5" target="_blank"><span style="color: blue">Breacher</span></a>, <a href="http://bit.ly/2F6ioDW" target="_blank"><span style="color: blue">Infoga</span></a>, <a href="http://bit.ly/2KAJC9m" target="_blank"><span style="color: blue">HatCloud</span></a> and <a href="http://bit.ly/2LCZ18X" target="_blank"><span style="color: blue">Sublist3r</span></a> are tools from other developers, not programmed by <a href="https://github.com/githacktools" target="_blank"><span style="color: blue">GitHackTools</span></a>.
+All the tools: <a href="http://bit.ly/2ohlBa5" target="_blank"><span style="color: blue">Breacher</span></a>, <a href="http://bit.ly/2KAJC9m" target="_blank"><span style="color: blue">HatCloud</span></a> and <a href="http://bit.ly/2LCZ18X" target="_blank"><span style="color: blue">Sublist3r</span></a> are tools from other developers, not programmed by <a href="https://cybernetix-s3c.github.io/" target="_blank"><span style="color: blue">CybernetiX-S3C</span></a>.
 
-# Screenshots (Older version)
-![Run BillCipher in Parrot Security OS](https://3.bp.blogspot.com/-8DvH0NPGLPM/W3UCK9hqF3I/AAAAAAAANRY/MBI0XiK8WnEzVB13IZdpWhhQgKlYfNDdACLcBGAs/s1600/BillCipher%2BParrotSec.png)
-![Run BillCipher in Kali Linux](https://2.bp.blogspot.com/-g-BQCqbWjQ8/W3UCJWgbVgI/AAAAAAAANRU/7NWPE4APngANHIp-cLcQzNQTFBEF3eo-QCLcBGAs/s1600/BillCipher%2BKaliLinux.png)
-![Run BillCipher in Windows 10](https://4.bp.blogspot.com/-gFl2fqik788/W3UCJT1CNmI/AAAAAAAANRQ/90nTvfAQXGoFYRyMG1x5JLzRu_Y0INqWwCLcBGAs/s1600/BillCipher%2BWindows%2B10.PNG)
 
-# Thanks to Thanks to <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools</span></a> (myself) for programming this tool
+
+# Thanks to Thanks to <a href="https://CybernetiX-S3C.github.io" target="_blank"><span style="color: blue">CybernetiX-S3C</span></a> (myself) for programming this tool
 
 # Contact to Author
-Website: <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools.blogspot.com</span></a>
+Website: <a href="https://CybernetiX-S3C.github.io" target="_blank"><span style="color: blue">https://CybernetiX-S3C.github.io</span></a>
 
-Twitter: <a href="https://twitter.com/SecureGF" target="_blank"><span style="color: blue">@SecureGF</span></a>
+Facebook: <a href="https://facebook.com/Cyber.S3C.Professional/" target="_blank"><span style="color: blue">@John Modica</span></a>
 
-Facebook: <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">@GitHackTools</span></a>
+Youtube: <a href="https://youtube.com/c/cybernetixs3c" target="_blank"><span style="color: blue">CybernetiX-S3C</span></a>
 
-Google Plus: <a href="https://plus.google.com/+TVT618" target="_blank"><span style="color: blue">+TVT618</span></a>
-
-# What's new in 2.3
- * Fixed bug! <a href="https://github.com/GitHackTools/BillCipher/pull/2" target="_blank"><span style="color: blue">Here</span></a>
+# What's new in 4.2
+ 
  * Fixed bug "Not found subbrute module of Sublist3r"
  
 # To-do list
- * Create a own version for the Hacker's OS like Kali Linux, ParrotSec (Kali version)
  * Add more features
- * Gather information about host (2.2) DONE!
- * Website Copier (use bhttrack and only support for Linux) (2.2) DONE!
+ * Gather information about host (4.2) DONE!
+ * Website Copier (use bhttrack and only support for Linux) (4.2) DONE!
  * And more...
