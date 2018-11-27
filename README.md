@@ -56,7 +56,7 @@ Afther that, Run Command Propmt and enter this commands:
 <code>python3 truth.py</code>
 
 # Notes
-Truth uses some pieces from my<a href="http://snapcraft.io/infosploit" target="_blank"><span style="color: blue">Infosploit</span></a> and my latest E-ntel.
+Truth uses some pieces from my <a href="http://snapcraft.io/infosploit" target="_blank"><span style="color: blue">Infosploit</span></a> and my latest E-ntel.
 
 All the tools: <a href="http://bit.ly/2ohlBa5" target="_blank"><span style="color: blue">Breacher</span></a>, <a href="http://bit.ly/2KAJC9m" target="_blank"><span style="color: blue">HatCloud</span></a> and <a href="http://bit.ly/2LCZ18X" target="_blank"><span style="color: blue">Sublist3r</span></a> are tools from other developers, not programmed by <a href="https://cybernetix-s3c.github.io/" target="_blank"><span style="color: blue">CybernetiX-S3C</span></a>.
 
